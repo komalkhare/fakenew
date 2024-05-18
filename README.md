@@ -1,1 +1,1 @@
-# fakenew
+# fakenews
