@@ -1,0 +1,10 @@
+streamlit 
+numpy 
+re
+pandas 
+nltk.corpus 
+nltk.stem.porter 
+sklearn.feature_extraction.text 
+sklearn.model_selection 
+sklearn.linear_model 
+sklearn.metrics
